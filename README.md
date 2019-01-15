@@ -1,5 +1,3 @@
 # Hello-World
-lalala
-aaaaa
-jijiji
-123123
+
+20190115hw ------> hw1.ipynb
